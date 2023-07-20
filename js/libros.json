@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Título: Harry Potter y la piedra filosofal", 
+        "dateP": "Fecha de publicación: 26 de junio de 1997 y en español en marzo de 1999.",
+        "synopsis": "Sinopsis: En esta primera obra se introducen la mayoría de los personajes principales de la serie, Harry, Ron y Hermionie.",
+        "img": "https://libreria.tirant.com/high/9788418173004.jpg"
+    },
+    {
+        "title": "Título: Harry Potter y la cámara secreta", 
+        "dateP": "Fecha de publicación: 2 de julio de 1998 y en español en octubre de 1999.",
+        "synopsis": "Sinopsis: En esta entrega introducen la figura del elfo doméstico y personajes relevantes para el resto de la serie, como Lucius Malfoy, Ginny Weasley y Arthur Weasley.",
+        "img": "https://th.bing.com/th/id/R.7fd2a2e263d32e7e87fc144c86cb6593?rik=Kl7uR%2bCjZlMWKw&pid=ImgRaw&r=0"
+    },
+    {
+        "title": "Título: Harry Potter el prisionero de Azkaban", 
+        "dateP": "Fecha de publicación: 8 de julio de 1999, mientras que en español lo hizo en abril de 2000.",
+        "synopsis": "Sinopsis: En esta obra se introducen la figura del dementor y los personajes de Remus Lupin y Sirius Black.",
+        "img": "https://th.bing.com/th/id/R.24609327675550ab3c86f500585c9fd9?rik=dXqWnkZy66P5Kg&pid=ImgRaw&r=0"
+    },
+    {
+        "title": "Título: Harry Potter y el cáliz de fuego", 
+        "dateP": "Fecha de publicación: 8 de julio de 2000 y en español en marzo de 2001.",
+        "synopsis": "Sinopsis: La historia explora más a fondo el mundo mágico y termina con el resurgimiento de Lord Voldemort.",
+        "img": "https://th.bing.com/th/id/R.bc4d24ab9a7fa1c9f3ddcb7924e5cf96?rik=UXjns%2bA4kPEmDA&pid=ImgRaw&r=0"
+    },
+    {
+        "title": "Título: Harry Potter y la Orden del Fénix", 
+        "dateP": "Fecha de publicación: 21 de junio de 2003, y en español el 21 de febrero de 2004.",
+        "synopsis": "Sinopsis: Dolores Umbridge es la nueva directora de Hogwarts, y junto con Luna Lovegood y Bellatrix Lestrange son los tres personajes más destacados que se introducen en esta entrega. ",
+        "img": "https://th.bing.com/th/id/OIP.pw_OAuc_FRhfWA3qIDe__gHaLQ?pid=ImgDet&rs=1"
+    },
+    {
+        "title": "Título: Harry Potter y el misterio del príncipe", 
+        "dateP": "Fecha de publicación: 16 de julio de 2005 y en español el 23 de febrero de 2006.",
+        "synopsis": "Sinopsis: Harry recibe clases particulares por el propio director del colegio, Albus Dumbledore,que le hace conocer momentos del pasado de Voldemort, para así enseñarle lo que son los horrocruxes.",
+        "img": "https://th.bing.com/th/id/OIP.SePuVajWkI6qtGen9ZYf1QHaLW?pid=ImgDet&rs=1"
+    },
+    {
+        "title": "Harry Potter y las Reliquias de la Muerte", 
+        "dateP": "Fecha de publicación: 21 de julio de 2007 y en español el 21 de febrero de 2008.",
+        "synopsis": "Sinopsis: Finalmente, se lleva a cabo la batalla de Hogwarts, entre la Orden del Fénix, alumnos y profesores del colegio, por un lado, y Voldemort y los Mortífagos, por el otro.",
+        "img": "https://th.bing.com/th/id/OIP.BDMXmBrUXksjqgSWcvR3ZQAAAA?pid=ImgDet&rs=1"
+    }
+]
